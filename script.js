@@ -19,4 +19,4 @@ function changeimage(e) {
 }
 
 prev.addEventListener("click", changeimage);
-prev.addEventListener("click", changeimage);
+next.addEventListener("click", changeimage);
